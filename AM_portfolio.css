@@ -1,0 +1,317 @@
+html {
+    background-image: url("http://www.marketwallpapers.com/wallpapers/28/wallpaper-150134.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold
+}
+
+.header {
+    height: 5%;
+    width: 98.5%;
+    background-color: blue;
+    z-index: 2;
+    border: 2px solid black;
+    position: fixed;
+    background: rgba(0, 0, 255, 0.8);
+    
+    }
+
+
+#name {
+    float: left;
+    color: white;
+    font-family: Verdana;
+    display: inline-block;
+    font-size: 2em;
+    margin-top: 0.1em;
+    
+
+    
+}
+
+#namecircle {
+    float:left;
+    z-index: 3;
+    display: inline-block;
+    margin: -12.5em 0em 0em -21.5em;
+    
+
+}
+
+.menu {
+    float: right;
+    color: black;
+    font-family: Verdana;
+    display: inline;
+    text-decoration: none;
+    
+
+    
+}
+
+.left {
+    z-index: 0;
+    float: left;
+    height: 90%;
+    width: 20%;
+    background: rgba(0, 0, 0, 0.1);
+    
+    margin: 0px 0px 0px 0px;
+    color: white;
+    }
+
+#profilepicarrow
+{
+           float: left;
+           margin-top: 4em;
+           margin-left: 4em;
+           
+
+}
+
+#profilepic
+{
+    margin-top: -2em;
+    margin-left: 6em;
+    float: left;
+    border: 0.1em solid white;
+    
+
+    
+
+}
+
+#profilepiccaption
+{
+    float: left;
+    font-family: Verdana;
+    color: white;
+    border: 0.1em solid white;
+    opacity: 0.8;
+    width: 126px;
+    text-align: center;
+    margin: -1em 0em 0em 6em;
+     border-radius:0.25em;
+    
+
+}
+
+#CSarrow
+{
+           float: left;
+           margin-top: 30em;
+           margin-left: 15em;
+           
+
+}
+
+#CSimage
+{
+    margin-top: -15em;
+    margin-left: 2em;
+    float: left;
+    
+
+    
+    
+
+}
+
+#CSimagecaption
+{
+    float: left;
+    font-family: Verdana;
+    color: white;
+    border: 0.1em solid white;
+    opacity: 0.8;
+    width: 197px;
+    text-align: center;
+    margin-top: -5.75em;
+    margin-left: 2em;
+    border-radius:0.25em;
+
+}
+
+.middle {
+    float: left;
+    z-index: 0;
+    height: 90%;
+    width: 58%;
+    background: rgba(0, 0, 0, 0.1);
+    
+    color: white;
+}
+
+
+#resumedetails {
+    padding: 90px 0;
+    color: white;
+    font-size: 1em;
+    font-family: Verdana;
+    z-index: 0;
+    position: relative;
+
+    opacity: 0.8;
+    line-height: 1.5;
+    
+}
+
+.right {
+    float: left;
+    z-index: 0;
+    height: 90%;
+    width: 20%;
+    background: rgba(0, 0, 0, 0.1);
+    
+    color: white;
+}
+
+#contact {
+    padding: 90px 0;
+    color: white;
+    font-size: 1em;
+    font-family: Verdana;
+    z-index: 0;
+    position: relative;
+    opacity: 0.8;
+    line-height: 1.5;
+    
+}
+
+
+
+ li{
+list-style-type: disc;
+list-style-position: inside;
+text-indent: -1em;
+}
+
+#email{
+    color: white;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+#managerarrow {
+    float: left;
+    margin: -4em 0em 0em -20em;
+    
+
+
+}
+
+#managingimage {
+float: left;
+margin: -30em 0em 0em 0em;
+
+
+
+
+}
+
+#managingimagecaption
+{
+    float: left;
+    font-family: Verdana;
+    color: white;
+    border: 0.1em solid white;
+    opacity: 0.8;
+    width: 297px;
+    text-align: center;
+    margin: -17.5em 0em 0em 0em;
+    border-radius:0.25em;
+
+}
+
+#Tradingarrow {
+           float: left;
+            margin-top: 33em;
+            margin-left: -5em;
+            
+
+            
+            
+}
+
+#Tradingimage {
+       margin-top: -10em;
+       margin-left: 1em;
+        float: left;
+        
+
+        
+}
+
+#Tradingimagecaption
+{
+    float: left;
+    font-family: Verdana;
+    color: white;
+    border: 0.1em solid white;
+    opacity: 0.8;
+    width: 298px;
+    text-align: center;
+    margin: -1.25em 0em 0em 1em;
+    border-radius:0.25em;
+
+}
+
+
+#PCarrow
+{
+           float: left;
+           margin-top: 6em;
+           margin-left: -30em;
+           
+
+}
+
+#PCimage
+{
+    margin-top: -5em;
+    margin-left: -5em;
+    float: left;
+    
+
+}
+
+#PCimagecaption
+{
+    float: left;
+    font-family: Verdana;
+    color: white;
+    border: 0.1em solid white;
+    opacity: 0.8;
+    width: 297px;
+    text-align: center;
+    margin-top: -1.25em;
+    margin-left: -5em;
+    border-radius:0.25em;
+
+}
+
+
+#footer {
+    height: 5%;
+    background-color: black;
+    opacity: 0.5;
+    margin: -20px -10px 0px -10px;
+    z-index: 1;
+    clear: both;
+    border: 2px solid black;
+    
+}
+
+img {
+        max-width: 100%;
+ }
