@@ -88,6 +88,7 @@ a:hover {
 
 
 .menu {
+    margin-top: 1em;
     float: right;
     color: black;
     font-family: courier;
@@ -102,9 +103,26 @@ a:hover {
        position: absolute;
        display: inline;
        opacity: 0.9;
+}
 
-        
-        
+#monkeyName {
+       margin: 0em 0em 0em 1em;
+       height: 15%;
+       width: 15%;
+       position: absolute;
+       display: inline;
+       opacity: 0.9;
+}
+
+#comingsoon {
+       margin: 5em 0em 0em 7.5em;
+
+       position: absolute;
+       display: inline;
+           color: black;
+    font-family: courier;
+    font-size: 4em;
+      
 }
 
 .left {
