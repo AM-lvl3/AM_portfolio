@@ -1,0 +1,170 @@
+html {
+    background-color: orange;
+    opacity: 50%;
+    /*background-image: url("/Users/AM/am/portfolio_site/soundwave all clear3.png");*/
+    background-repeat:no-repeat;
+    background-size: cover;
+
+
+
+
+}
+
+a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+    color: white;
+
+    
+}
+
+#Andrew {
+    z-index: 1;
+    display: inline;
+    position: absolute;
+    margin: 0.9em 0em 0em 0.9em;
+    color: orange;
+    font-family: impact;
+    font-size: 12em;
+
+}
+
+#Morris {
+    z-index: 1;
+    display: inline;
+    position: absolute;
+    margin: 1.9em 0em 0em 2.9em;
+    color: orange;
+    font-family: impact;
+    font-size: 13em;
+}
+
+#Aout {
+    z-index: 0;
+    display: inline;
+    position: absolute;
+    margin: 1em 0em 0em 1em;
+    color: black;
+    font-family: impact;
+    font-size: 12em;
+
+}
+
+#Mout {
+    z-index: 0;
+    display: inline;
+    position: absolute;
+    margin: 2em 0em 0em 3em;
+    color: black;
+    font-family: impact;
+    font-size: 13em;
+
+
+}
+
+#home1 {
+    display: inline-block;
+    position: absolute;
+    margin: -0.1em 0em 0em 0em;
+    color: black;
+    font-family: courier;
+    font-size: 3em;
+
+}
+
+#home2 {
+    display: inline-block;
+    position: absolute;
+    padding-left: 7em;
+    color: black;
+    font-family: courier;
+    font-size: 5em;
+
+}
+
+
+.menu {
+    float: right;
+    color: black;
+    font-family: courier;
+    display: inline-block;
+ 
+}
+
+#monkeyimage {
+       margin: 22.5em 0em 0em 49.5em;
+       height: 15%;
+       width: 15%;
+       position: absolute;
+       display: inline;
+       opacity: 0.9;
+
+        
+        
+}
+
+.left {
+    z-index: 0;
+    float: left;
+    height: 90%;
+    width: 20%;
+    background: rgba(0, 0, 0, 0.1);
+    
+    margin: 0px 0px 0px 0px;
+    color: white;
+    }
+
+
+
+.middle {
+    float: left;
+    z-index: 0;
+    height: 90%;
+    width: 58%;
+    background: rgba(0, 0, 0, 0.1);
+    
+    color: white;
+}
+
+
+.right {
+    float: left;
+    z-index: 0;
+    height: 90%;
+    width: 20%;
+    background: rgba(0, 0, 0, 0.1);
+    
+    color: white;
+}
+
+
+#Tradingimage {
+       margin-top: -10em;
+       margin-left: 1em;
+        float: left;
+        
+}
+
+
+img {
+        max-width: 100%;
+ }
+
+ #CSimagecaption
+{
+    float: left;
+    font-family: Verdana;
+    color: white;
+    border: 0.1em solid white;
+    opacity: 0.8;
+    width: 197px;
+    text-align: center;
+    margin-top: -5.75em;
+    margin-left: 2em;
+    border-radius:0.25em;
+
+}
