@@ -125,6 +125,50 @@ a:hover {
       
 }
 
+#brain {
+        margin: 10em 0em -5em 25em;
+       height: 75%;
+       width: 45%;
+
+       position: absolute;
+       display: inline;
+ 
+
+}
+#contactinfo {
+       margin: 3em 0em 0em 7.5em;
+
+       position: absolute;
+       display: inline;
+           color: black;
+    font-family: courier;
+    font-size: 4em;
+      
+}
+
+
+#linkedin {
+        margin: 23em 0em -40em 45em;
+       height: 25%;
+       width: 25%;
+
+       position: absolute;
+       display: inline;
+ 
+
+}
+
+#email {
+        margin: 23em 0em -40em 23em;
+       height: 17%;
+       width: 17%;
+
+       position: absolute;
+       display: inline;
+ 
+
+}
+
 .left {
     z-index: 0;
     float: left;
